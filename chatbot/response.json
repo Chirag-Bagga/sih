@@ -1,0 +1,34 @@
+{
+    "input": "tell me about DIFFERENCES IN THE UNINSURED RATE BY STATE IN 2022",
+    "context": [
+        {
+            "page_content": "comparison of ACS and CPS ASEC measures \nof health insurance coverage, refer to < www.\ncensus.gov/topics/health/health-insurance/\nguidance.html >.\n9 Respondents may have more than one \nhealth insurance coverage type at the time \nof interview. As a result, adding the total \nnumber of people with private coverage and \nthe total number with public coverage will \nsum to more than the total number with any \ncoverage.\u2022 From 2021 to 2022, nine states \nreported increases in private \ncoverage, while seven reported \ndecreases (Appendix Table B-2). \nDIFFERENCES IN THE \nUNINSURED RATE BY STATE \nIN 2022\nIn 2022, uninsured rates at the \ntime of interview ranged across \nstates from a low of 2.4 percent \nin Massachusetts to a high of 16.6 \npercent in Texas, compared to the \nnational rate of 8.0 percent.10 Ten \nof the 15 states with uninsured \n10 The uninsured rates in the District \nof Columbia and Massachusetts were not \nstatistically different.rates above the national aver -",
+            "metadata": {
+                "source": "..\\datas\\acsbr-015.pdf",
+                "page": 1
+            }
+        },
+        {
+            "page_content": "percent (Appendix Table B-5). \nMedicaid coverage accounted \nfor a portion of that difference. \nMedicaid coverage was 22.7 per -\ncent in the group of states that \nexpanded Medicaid eligibility and \n18.0 percent in the group of nonex -\npansion states.\nCHANGES IN THE UNINSURED \nRATE BY STATE FROM 2021 \nTO 2022\nFrom 2021 to 2022, uninsured rates \ndecreased across 27 states, while \nonly Maine had an increase. The \nuninsured rate in Maine increased \nfrom 5.7 percent to 6.6 percent, \nalthough it remained below the \nnational average. Maine\u2019s uninsured \nrate was still below 8.0 percent, \n21 Douglas Conway and Breauna Branch, \n\u201cHealth Insurance Coverage Status and Type \nby Geography: 2019 and 2021,\u201d 2022, < www.\ncensus.gov/content/dam/Census/library/\npublications/2022/acs/acsbr-013.pdf >.",
+            "metadata": {
+                "source": "..\\datas\\acsbr-015.pdf",
+                "page": 4
+            }
+        },
+        {
+            "page_content": "library/publications/2022/acs/acsbr-013.pdf >.\n39 In 2022, the private coverage rates were \nnot statistically different in North Dakota and \nUtah.Figure /five.tab/period.tab\nPercentage of Uninsured People for the /two.tab/five.tab Most Populous Metropolitan \nAreas/colon.tab /two.tab/zero.tab/two.tab/one.tab and /two.tab/zero.tab/two.tab/two.tab\n(Civilian, noninstitutionalized population) /uni00A0\n* Denotes a statistically signi\ufb01cant change between 2021 and 2022 at the 90 percent con\ufb01dence level.\nNote: For information on con\ufb01dentiality protection, sampling error, nonsampling error, and de\ufb01nitions in the American Community\nSurvey, refer to <https://www2.census.gov/programs-surveys/acs/tech_docs/accuracy/ACS_Accuracy_of_Data_2022.pdf>.\nSource: U.S. Census Bureau, 2021 and 2022 American Community Survey, 1-year estimates. Boston-Cambridge-Newton/comma.tab MA-NH\nSan Francisco-Oakland-Berkeley/comma.tab CA\n*Detroit-Warren-Dearborn/comma.tab MI",
+            "metadata": {
+                "source": "..\\datas\\acsbr-015.pdf",
+                "page": 9
+            }
+        },
+        {
+            "page_content": "decreases (1.8 percentage points) \nin the uninsured rate from 2021 to \n2022, which is consistent with the \ndecrease in the uninsured rates \nin both South Carolina and North \nCarolina.36 The uninsured rate in 14 \nmetropolitan areas did not statisti -\ncally change between 2021 and \n2022.\n34 These most populous metropolitan \nareas had the highest uninsured rates in \n2022 and 2021. Refer to < www.census.\ngov/content/dam/Census/library/\npublications/2022/acs/acsbr-013.pdf >.\n35 When comparing metropolitan areas \nfrom 2021 to 2022, we used the 25 most \npopulous metropolitan areas in 2022 as \nthe basis for comparison. However, none of \nthe 25 most populous metropolitan areas \nchanged from 2021 to 2022; only the order \nof their population ranking within the 25 \nmetro areas did.\n36 The changes in the uninsured \nrates from 2021 to 2022 in Dallas-Fort \nWorth-Arlington, TX (1.0 percentage \npoints); Denver-Aurora-Lakewood, CO \n(1.4 percentage points); Houston-The",
+            "metadata": {
+                "source": "..\\datas\\acsbr-015.pdf",
+                "page": 8
+            }
+        }
+    ],
+    "answer": "Based on the provided context, here are the key points about DIFFERENCES IN THE UNINSURED RATE BY STATE IN 2022:\n\n* Uninsured rates at the time of interview ranged across states from a low of 2.4% in Massachusetts to a high of 16.6% in Texas, compared to the national rate of 8.0%.\n* Ten of the 15 states with uninsured rates above the national average (8.0%) were:\n\t+ States that expanded Medicaid eligibility\n\t+ Non-expansion states\n* Medicaid coverage accounted for a portion of the difference in uninsured rates between states.\n\nLet me know if you'd like me to answer any further questions!"
+}

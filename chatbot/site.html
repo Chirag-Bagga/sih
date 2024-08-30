@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Chatbot Interface</title>
+</head>
+<body>
+    <h1>Ask a Question</h1>
+    <form id="chatForm" method="POST">
+        <input type="text" id="prompt" name="prompt" placeholder="Enter your question">
+        <button type="submit">Submit</button>
+    </form>
+    <h2>Response:</h2>
+    <p id="response"></p>
+
+    <script>
+        document.getElementById('chatForm').addEventListener('submit', async function(e) {
+            e.preventDefault();
+            const prompt = document.getElementById('prompt').value;
+            const response = await fetch('http://localhost:8000/ask', {
+                method: 'POST',
+                headers: {
+                    'Content-Type': 'application/json'
+                },
+                body: JSON.stringify({ prompt })
+            });
+            const data = await response.json();
+            document.getElementById('response').textContent = data.answer || data.error;
+        });
+    </script>
+</body>
+</html>
