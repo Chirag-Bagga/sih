@@ -23,3 +23,6 @@ PyPDF2
 langchain-huggingface
 fastapi
 uvicorn
+faiss-cpu==1.7.3
+torch==2.0.1
+sentence-transformers==2.2.2
